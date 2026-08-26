@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+faster-whisper
+openai
+pyannote.audio
+torch
